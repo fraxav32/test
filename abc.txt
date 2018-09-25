@@ -3,4 +3,14 @@
 
 this is change is done by Master -admin side
 
+<<<<<<< HEAD
 changes in master file again.
+=======
+
+
+
+
+
+
+this is change id performed in dev 2 files.
+>>>>>>> dev2
